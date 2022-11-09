@@ -1,5 +1,5 @@
 # Rating-Product-Sorting-Reviews-in-Amazon
-The product with the most reviews in the electronics category has user ratings and reviews. Products will be ranked by scoring.
+The product with the most reviews in the electronics category has user ratings and reviews. It can be misleading to rank products only by the average of their ratings on the web.Many parameters such as the number of comments, the date of the given score can be taken into account and a fairer ranking can be made.
 
 | Veriables     |               | 
 | ------------- |:-------------:| 
